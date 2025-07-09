@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <title>Agregar Persona</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            display: inline-block;
+            text-align: left;
+            margin-top: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        input[type="text"],
+        input[type="file"],
+        select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        a {
+            margin-left: 10px;
+            text-decoration: none;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Agregar Persona</h1>
+    <!-- Formulario para registrar una nueva persona -->
+    <form action="/agregar" method="post" enctype="multipart/form-data">
+        <!-- Campo para el nombre -->
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+
+        <!-- Campo para la cédula -->
+        <label for="cedula">Cédula:</label>
+        <input type="text" id="cedula" name="cedula" required><br><br>
+
+        <!-- Selección del tipo de membresía -->
+        <label for="tipo">Tipo de membresía:</label>
+        <select id="tipo" name="tipo" required onchange="mostrarPersonalizado()">
+            <option value="semanal">Semanal</option>
+            <option value="mensual" selected>Mensual</option>
+            <option value="anual">Anual</option>
+            <option value="personalizada">Personalizada</option>
+        </select><br><br>
+
+        <!-- Campos para membresía personalizada (días, horas, minutos) -->
+        <div id="personalizado" style="display:none;">
+            <label>Cantidad personalizada:</label><br>
+            <input type="number" id="dias" name="dias" min="0" placeholder="Días" style="width:60px;"> días
+            <input type="number" id="horas" name="horas" min="0" max="23" placeholder="Horas" style="width:60px;"> horas
+            <input type="number" id="minutos" name="minutos" min="0" max="59" placeholder="Minutos" style="width:60px;"> min
+            <br><br>
+        </div>
+
+        <!-- Campo para subir la foto -->
+        <label for="foto">Foto:</label>
+        <input type="file" id="foto" name="foto" accept="image/*" required><br><br>
+
+        <!-- Botón para registrar y enlace para cancelar -->
+        <button type="submit">Registrar</button>
+        <a href="/">Cancelar</a>
+    </form>
+
+    <script>
+    // Muestra u oculta los campos personalizados según la selección
+    function mostrarPersonalizado() {
+        var tipo = document.getElementById('tipo').value;
+        document.getElementById('personalizado').style.display = (tipo === 'personalizada') ? 'block' : 'none';
+    }
+    // Ejecutar al cargar la página por si el navegador recuerda la selección anterior
+    window.onload = mostrarPersonalizado;
+    </script>
+</body>
+</html>

@@ -1,0 +1,710 @@
+2025-07-08 15:32:54,045 [INFO] Running on http://192.168.1.100:5000 (CTRL + C to quit)
+2025-07-08 15:44:28,449 [INFO] Running on http://192.168.1.100:5000 (CTRL + C to quit)
+2025-07-08 15:44:46,692 [INFO] Intentando sincronizar persona: 1111111111 - gabriel
+2025-07-08 15:44:46,720 [INFO] Respuesta del panel para 1111111111: 400 - {
+	"statusCode":	6,
+	"statusString":	"Invalid Content",
+	"subStatusCode":	"employeeNoNotExist",
+	"errorCode":	1610637343,
+	"errorMsg":	"employeeNo"
+}
+2025-07-08 15:44:46,721 [INFO] El usuario 1111111111 no existe en el panel, intentando crearlo...
+2025-07-08 15:44:46,820 [INFO] Respuesta al crear usuario 1111111111: 200 - {
+	"statusCode":	1,
+	"statusString":	"OK",
+	"subStatusCode":	"ok"
+}
+2025-07-08 15:44:46,820 [INFO] Ruta absoluta de la foto para sincronización: D:\iVMS-4200alarmPicture\ATC-GYM 4.0\FOTOS\1111111111.jpg
+2025-07-08 15:44:46,821 [INFO] ¿Existe el archivo de foto?: True
+2025-07-08 15:44:48,226 [INFO] Respuesta al subir foto para 1111111111: 200 - {
+	"statusCode":	1,
+	"statusString":	"OK",
+	"subStatusCode":	"ok",
+	"FPID":	"1111111111"
+}
+2025-07-08 15:44:48,230 [INFO] Persona 1111111111 sincronizada correctamente.
+2025-07-08 16:30:56,849 [INFO] Intentando sincronizar persona: 77777777 - elena
+2025-07-08 16:30:56,852 [INFO] Running on http://192.168.1.100:5000 (CTRL + C to quit)
+2025-07-08 16:30:56,913 [INFO] Respuesta del panel para 77777777: 200 - {
+	"statusCode":	1,
+	"statusString":	"OK",
+	"subStatusCode":	"ok"
+}
+2025-07-08 16:30:56,913 [INFO] Ruta absoluta de la foto para sincronización: D:\iVMS-4200alarmPicture\ATC-GYM 4.0\FOTOS\77777777.jpg
+2025-07-08 16:30:56,914 [INFO] ¿Existe el archivo de foto?: True
+2025-07-08 16:30:57,982 [INFO] Respuesta al subir foto para 77777777: 400 - {
+	"statusCode":	6,
+	"statusString":	"Invalid Content",
+	"subStatusCode":	"deviceUserAlreadyExistFace",
+	"errorCode":	1610641412,
+	"errorMsg":	"saveFacePic"
+}
+2025-07-08 16:30:57,983 [INFO] La foto ya existe en el panel, se marca como sincronizado.
+2025-07-08 16:30:57,986 [INFO] Persona 77777777 sincronizada correctamente.
+2025-07-08 18:51:45,296 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:45,434 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:45,540 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:45,685 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:45,813 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:45,968 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:46,122 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:46,277 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:46,405 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:46,561 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:46,716 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:46,859 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,018 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,157 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,311 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,451 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,607 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,762 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:47,918 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:48,073 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:48,228 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:48,382 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:48,536 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:48,692 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:48,844 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,000 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,155 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,309 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,463 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,616 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,770 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:49,897 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,050 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,205 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,361 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,488 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,643 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,797 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:50,953 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:51,109 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:51,264 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:51,420 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:51,576 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:51,731 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:51,885 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,041 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,197 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,352 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,506 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,662 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,801 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:52,941 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,098 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,252 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,407 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,562 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,719 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,874 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:53,999 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:54,156 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:54,311 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:54,468 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:54,624 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:54,778 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:54,932 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:55,089 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:55,244 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:55,401 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:55,557 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:55,710 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:55,866 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:56,023 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:56,178 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-08 18:51:56,335 [ERROR] Error en la sincronización automática con el panel: (2006, 'Server has gone away')
+Traceback (most recent call last):
+  File "app.py", line 657, in sincronizar_membresias_con_panel
+  File "dbutils\steady_db.py", line 682, in tough_method
+  File "dbutils\steady_db.py", line 605, in tough_method
+  File "MySQLdb\cursors.py", line 179, in execute
+  File "MySQLdb\cursors.py", line 330, in _query
+  File "MySQLdb\connections.py", line 280, in query
+MySQLdb.OperationalError: (2006, 'Server has gone away')
+2025-07-09 09:57:48,111 [INFO] Running on http://192.168.1.100:5000 (CTRL + C to quit)

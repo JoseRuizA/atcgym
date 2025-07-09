@@ -1,0 +1,16 @@
+# Bytecode de Python
+__pycache__/
+
+# Salidas de empaquetado
+build/
+dist/
+*.spec
+
+# Entorno embebido
+python_embebido/
+
+# Logs
+*.log
+
+# Carpeta de fotos en producción (opcional si no quieres versionar fotos reales)
+FOTOS/

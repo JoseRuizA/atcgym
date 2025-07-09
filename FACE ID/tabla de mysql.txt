@@ -1,0 +1,25 @@
+CREATE TABLE `eventos` (
+  `nevento` INT(11) NOT NULL AUTO_INCREMENT,
+  `id` VARCHAR(50) COLLATE utf8_general_ci DEFAULT NULL,
+  `accesos` TINYINT(1) DEFAULT NULL,
+  `fecha` DATETIME DEFAULT NULL,
+  `nombre` VARCHAR(100) COLLATE utf8_general_ci DEFAULT NULL,
+  `tipo_evento` VARCHAR(50) COLLATE utf8_general_ci DEFAULT NULL,
+  `fin` DATETIME DEFAULT NULL,
+  PRIMARY KEY (`nevento`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+
+
+CREATE TABLE personas (
+    npersona INT(11) NOT NULL AUTO_INCREMENT,
+    id VARCHAR(20) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+    nombre VARCHAR(100) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+    inicio DATETIME NULL,
+    fin DATETIME NULL,
+    membresia VARCHAR(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
+    rfoto VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL,
+    sincronizado TINYINT(1) NULL DEFAULT '0',
+    tpersona VARCHAR(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT 'CLIENTE',
+    PRIMARY KEY (npersona)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;

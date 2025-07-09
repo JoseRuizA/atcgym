@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <title>Eventos en tiempo real del panel Hikvision</title>
+    <style>
+    body {
+        text-align: center;
+    }
+    .contenedor-central {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #eventos-tabla th, #eventos-tabla td {
+        padding: 8px 16px;
+        text-align: center;
+        font-size: 15px;
+    }
+    #eventos-tabla th:nth-child(6), #eventos-tabla td:nth-child(6) {
+        min-width: 160px;
+        letter-spacing: 1px;
+    }
+    </style>
+</head>
+<body>
+    <div class="contenedor-central">
+        <h1>Eventos en tiempo real del panel Hikvision</h1>
+        <!-- Contenedor donde se mostrará la tabla de eventos -->
+        <div id="tabla-eventos">
+            {% include 'tabla_eventos.html' %}
+        </div>
+        <!-- Enlace para volver a la página principal -->
+        <a href="/">Volver</a>
+    </div>
+    <script>
+    // Función para cargar los eventos desde el servidor usando fetch 
+    function cargarEventos() {
+        fetch('/tabla_eventos')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('tabla-eventos').innerHTML = html;
+            });
+    }
+    // Llama a cargarEventos cada 0.1 segundos para actualizar la tabla en tiempo real
+    setInterval(cargarEventos, 100); 
+    </script>
+</body>
+</html>

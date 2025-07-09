@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <title>Personas Registradas</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        .boton-enlace {
+            display: inline-block;
+            background: #1976d2;
+            color: #fff !important;
+            padding: 8px 18px;
+            margin-right: 8px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 15px;
+            transition: background 0.2s;
+        }
+        td.col-nombre {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .boton-enlace:hover {
+            background: #125ea2;
+            color: #fff !important;
+            text-decoration: none;
+        }
+        .contenedor-central {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        table {
+            border-collapse: collapse;
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        th, td {
+            padding: 10px 18px;
+            text-align: center;
+            font-size: 15px;
+        }
+        th {
+            background: #f5f5f5;
+        }
+        img {
+            border-radius: 6px;
+        }
+        input#busqueda {
+            margin-bottom: 10px;
+            font-size: 16px;
+            padding: 4px;
+        }
+        /* Botones de acción en la tabla */
+        .btn-accion {
+            background: #2196f3;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 6px 16px;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.2s;
+            margin: 2px 0;
+        }
+        .btn-accion:hover {
+            background: #1769aa;
+        }
+        .btn-eliminar {
+            background: #e53935;
+        }
+        .btn-eliminar:hover {
+            background: #ab000d;
+        }
+        .btn-editar {
+            background: #43a047;
+        }
+        .btn-editar:hover {
+            background: #2e7031;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenedor-central">
+        <h1>Personas Registradas</h1>
+        <div style="margin-bottom: 18px;">
+            <!--<a href="/agregar" class="boton-enlace">➕ Agregar Persona</a> -->
+            <a href="/eventos_panel" class="boton-enlace">📋 Eventos en tiempo real</a>
+        </div>
+
+        <!-- Barra de búsqueda fuera de la tabla -->
+        <div>
+            <input type="text" id="busqueda" placeholder="Buscar por nombre o cédula...">
+            <button type="button" onclick="filtrarTabla()" style="font-size:16px; padding:4px;">
+                🔍
+            </button>
+        </div>
+
+        <table border="1">
+            <tr>
+                <th>Nombre</th>
+                <th>Cédula</th>
+                <th>Membresía Fin</th>
+                <th>Vigente</th>
+                <th>Tipo de Membresía</th>
+                <th>Tipo de persona</th>
+                <!-- <th>Eliminar</th>-->
+                <th>Días para eliminación</th>
+                <!-- <th>Editar</th>-->
+            </tr>
+            {% for p in personas %}
+            <tr>
+                <td class="col-nombre">{{ p[1] }}</td>
+                <td>{{ p[2] }}</td>
+                <td>{{ p[3] }}</td>
+                <td>{{ 'Sí' if p[4] else 'No' }}</td>
+                <td>{{ p[5] }}</td>
+                <td>{{ p[7] }}</td>
+                <td>
+                    {% if not p[4] and p[6] is not none and p[6] > 0 %}
+                        {{ p[6] }} día(s)
+                    {% elif not p[4] and p[6] == 0 %}
+                        Eliminado del panel
+                    {% else %}
+                        -
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <script>
+    function filtrarTabla() {
+        var input = document.getElementById("busqueda");
+        var filtro = input.value.toLowerCase();
+        var tabla = document.querySelector("table");
+        var filas = tabla.getElementsByTagName("tr");
+        for (var i = 1; i < filas.length; i++) { // Empieza en 1 para saltar el encabezado
+            var celdas = filas[i].getElementsByTagName("td");
+            var mostrar = false;
+            // Busca en nombre y cédula (columnas 0 y 1)
+            for (var j of [0,1]) {
+                if (celdas[j] && celdas[j].innerText.toLowerCase().indexOf(filtro) > -1) {
+                    mostrar = true;
+                    break;
+                }
+            }
+            filas[i].style.display = mostrar ? "" : "none";
+        }
+    }
+    document.getElementById("busqueda").addEventListener("keyup", filtrarTabla);
+    </script>
+    <!-- Modal flotante para subir foto -->
+    <div id="modal-foto" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.5); justify-content:center; align-items:center;">
+        <form id="form-foto" method="POST" enctype="multipart/form-data" style="background:white; padding:30px; border-radius:10px; display:flex; flex-direction:column; gap:10px; align-items:center;">
+            <h3>Subir nueva foto o renovar</h3>
+            <input type="file" name="foto" accept="image/*" >
+            <p>Si ya hay una foto existente dele click al boton de Agregar al panel, si no hay o quieres reemplazar la foto, selecciona el archivo y dele click al boton de Agregar al panel.</p>
+            <button type="submit" class="btn-accion">Agregar al panel</button>
+            <button type="button" class="btn-accion btn-eliminar" onclick="cerrarModal()">Cancelar</button>
+        </form>
+    </div>
+    <script>
+    function abrirModal(cedula) {
+        document.getElementById('modal-foto').style.display = 'flex';
+        document.getElementById('form-foto').action = '/renovar/' + cedula;
+    }
+    function cerrarModal() {
+        document.getElementById('modal-foto').style.display = 'none';
+        document.getElementById('form-foto').reset();
+    }
+    </script>
+</body>
+</html>

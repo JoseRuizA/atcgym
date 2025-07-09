@@ -1,0 +1,4392 @@
+(['C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\app.py'],
+ ['C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID'],
+ [],
+ [('C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [('FOTOS\\1105363067.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1105363067.jpg',
+   'DATA'),
+  ('FOTOS\\1110457460.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1110457460.jpg',
+   'DATA'),
+  ('FOTOS\\1111111111.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1111111111.jpg',
+   'DATA'),
+  ('FOTOS\\1111748851.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1111748851.jpg',
+   'DATA'),
+  ('FOTOS\\123456789.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\123456789.jpg',
+   'DATA'),
+  ('FOTOS\\12345678910.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\12345678910.jpg',
+   'DATA'),
+  ('FOTOS\\14123456.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\14123456.jpg',
+   'DATA'),
+  ('FOTOS\\16379045.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\16379045.jpg',
+   'DATA'),
+  ('FOTOS\\23123213324234.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\23123213324234.jpg',
+   'DATA'),
+  ('FOTOS\\234324324324.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\234324324324.jpg',
+   'DATA'),
+  ('FOTOS\\3333333333333.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\3333333333333.jpg',
+   'DATA'),
+  ('FOTOS\\3664643222.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\3664643222.jpg',
+   'DATA'),
+  ('FOTOS\\5555555555.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\5555555555.jpg',
+   'DATA'),
+  ('FOTOS\\6545332252.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\6545332252.jpg',
+   'DATA'),
+  ('FOTOS\\77777777.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\77777777.jpg',
+   'DATA'),
+  ('FOTOS\\94074267.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\94074267.jpg',
+   'DATA'),
+  ('FOTOS\\icono.png',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\icono.png',
+   'DATA'),
+  ('config.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\config.txt',
+   'DATA'),
+  ('templates\\agregar.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\templates\\agregar.html',
+   'DATA'),
+  ('templates\\editar.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\templates\\editar.html',
+   'DATA'),
+  ('templates\\eventos_panel.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\templates\\eventos_panel.html',
+   'DATA'),
+  ('templates\\index.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\templates\\index.html',
+   'DATA'),
+  ('templates\\tabla_eventos.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\templates\\tabla_eventos.html',
+   'DATA')],
+ '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('app',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\app.py',
+   'PYSOURCE')],
+ [('_distutils_hack',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\util.pyc',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\contextlib.pyc',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\_bootstrap_external.pyc',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\__init__.pyc',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\typing.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\_itertools.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\_functools.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\_collections.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\_meta.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\_adapters.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\metadata\\_text.pyc',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\message.pyc',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\policy.pyc',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\contentmanager.pyc',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\quoprimime.pyc',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\string.pyc',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\headerregistry.pyc',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\_header_value_parser.pyc',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\urllib\\__init__.pyc',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\generator.pyc',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\copy.pyc',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\random.pyc',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\statistics.pyc',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\decimal.pyc',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_pydecimal.pyc',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\contextvars.pyc',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\fractions.pyc',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\numbers.pyc',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\hashlib.pyc',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\bisect.pyc',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\iterators.pyc',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\_encoded_words.pyc',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\base64.pyc',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\getopt.pyc',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\gettext.pyc',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\struct.pyc',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\charset.pyc',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\encoders.pyc',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\base64mime.pyc',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\_policybase.pyc',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\header.pyc',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\errors.pyc',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\utils.pyc',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\_parseaddr.pyc',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\calendar.pyc',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\argparse.pyc',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\shutil.pyc',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tarfile.pyc',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\gzip.pyc',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_compression.pyc',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\lzma.pyc',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\bz2.pyc',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\fnmatch.pyc',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\urllib\\parse.pyc',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ipaddress.pyc',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\socket.pyc',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\selectors.pyc',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\quopri.pyc',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\textwrap.pyc',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\zipfile.pyc',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\py_compile.pyc',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\machinery.pyc',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pathlib.pyc',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\__init__.pyc',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\parser.pyc',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\email\\feedparser.pyc',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\csv.pyc',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\readers.pyc',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\readers.pyc',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\_itertools.pyc',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\abc.pyc',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\__init__.pyc',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\_legacy.pyc',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\_common.pyc',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\resources\\_adapters.pyc',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tempfile.pyc',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tokenize.pyc',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\token.pyc',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\_bootstrap.pyc',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\_abc.pyc',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\abc.pyc',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\importlib\\__init__.pyc',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.zosccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\zosccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\util.pyc',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\filelist.pyc',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\debug.pyc',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\file_util.pyc',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\dir_util.pyc',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\subprocess.pyc',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\signal.pyc',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\sysconfig.pyc',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\text_file.pyc',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\sysconfig.pyc',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pprint.pyc',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\dataclasses.pyc',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\inspect.pyc',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\dis.pyc',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\opcode.pyc',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ast.pyc',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_osx_support.pyc',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_aix_support.pyc',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_bootsubprocess.pyc',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\log.pyc',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\spawn.pyc',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\dep_util.pyc',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\errors.pyc',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\__init__.pyc',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\archive_util.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\fancy_getopt.pyc',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\coroutines.pyc',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\queue.pyc',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\shlex.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\mock.pyc',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\__init__.pyc',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\async_case.pyc',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\signals.pyc',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\main.pyc',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\runner.pyc',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\loader.pyc',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\suite.pyc',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\case.pyc',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\_log.pyc',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\difflib.pyc',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\result.pyc',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\unittest\\util.pyc',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pkgutil.pyc',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\zipimport.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\platform.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\versionpredicate.pyc',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\version.pyc',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\command\\__init__.pyc',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\cmd.pyc',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\dist.pyc',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\configparser.pyc',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ctypes\\__init__.pyc',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ctypes\\wintypes.pyc',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ctypes\\_endian.pyc',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\glob.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\site.pyc',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\rlcompleter.pyc',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_sitebuiltins.pyc',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pydoc.pyc',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\http\\server.pyc',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\http\\__init__.pyc',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\http\\cookiejar.pyc',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\urllib\\request.pyc',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\getpass.pyc',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ftplib.pyc',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\netrc.pyc',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\nturl2path.pyc',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ssl.pyc',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\urllib\\response.pyc',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\urllib\\error.pyc',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\socketserver.pyc',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\mimetypes.pyc',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\http\\client.pyc',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\html\\__init__.pyc',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\html\\entities.pyc',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pydoc_data\\topics.pyc',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pydoc_data\\__init__.pyc',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tty.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\concurrent\\futures\\__init__.pyc',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\concurrent\\futures\\thread.pyc',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\concurrent\\futures\\process.pyc',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\synchronize.pyc',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\heap.pyc',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\resource_tracker.pyc',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\spawn.pyc',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\runpy.pyc',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\util.pyc',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\forkserver.pyc',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\process.pyc',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\context.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\popen_spawn_win32.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\popen_forkserver.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\popen_spawn_posix.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\popen_fork.pyc',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\sharedctypes.pyc',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\pool.pyc',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\dummy\\__init__.pyc',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\dummy\\connection.pyc',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\managers.pyc',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\shared_memory.pyc',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\secrets.pyc',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\hmac.pyc',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\reduction.pyc',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\resource_sharer.pyc',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\pickle.pyc',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_compat_pickle.pyc',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\queues.pyc',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\connection.pyc',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xmlrpc\\client.pyc',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xmlrpc\\__init__.pyc',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\parsers\\expat.pyc',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\parsers\\__init__.pyc',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\__init__.pyc',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\sax\\expatreader.pyc',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\sax\\saxutils.pyc',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\sax\\__init__.pyc',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\sax\\handler.pyc',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\sax\\_exceptions.pyc',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\xml\\sax\\xmlreader.pyc',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\multiprocessing\\__init__.pyc',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\concurrent\\futures\\_base.pyc',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\concurrent\\__init__.pyc',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\command\\build_ext.pyc',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\_msvccompiler.pyc',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\ccompiler.pyc',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\extension.pyc',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\core.pyc',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\config.pyc',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\cgi.pyc',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('wheel.macosx_libfile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('wheel',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('backports',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\command\\sdist.pyc',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\command\\build.pyc',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('wheel.wheelfile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('wheel.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\util.py',
+   'PYMODULE'),
+  ('wheel.cli',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli.tags',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('wheel.cli.convert',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.tags',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._musllinux',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._elffile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._manylinux',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('wheel.metadata',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.requirements',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._structures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.specifiers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.markers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._tokenizer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('wheel.cli.pack',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('wheel.cli.unpack',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tomllib\\__init__.pyc',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tomllib\\_parser.pyc',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tomllib\\_types.pyc',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tomllib\\_re.pyc',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\distutils\\command\\bdist.pyc',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\__future__.pyc',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\tracemalloc.pyc',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\stringprep.pyc',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_py_abc.pyc',
+   'PYMODULE'),
+  ('flask',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\__init__.py',
+   'PYMODULE'),
+  ('flask.wrappers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\wrappers.py',
+   'PYMODULE'),
+  ('flask.debughelpers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\debughelpers.py',
+   'PYMODULE'),
+  ('flask.sansio.scaffold',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\sansio\\scaffold.py',
+   'PYMODULE'),
+  ('click',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('click.parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.shell_completion',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\shell_completion.py',
+   'PYMODULE'),
+  ('click.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('click._compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.termui',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click.globals',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('click.core',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click.types',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\uuid.pyc',
+   'PYMODULE'),
+  ('flask.sansio', '-', 'PYMODULE'),
+  ('jinja2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.sandbox',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\sandbox.py',
+   'PYMODULE'),
+  ('jinja2.async_utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\async_utils.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('flask.sansio.app',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\sansio\\app.py',
+   'PYMODULE'),
+  ('flask.sansio.blueprints',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\sansio\\blueprints.py',
+   'PYMODULE'),
+  ('flask.testing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\testing.py',
+   'PYMODULE'),
+  ('flask.sessions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\sessions.py',
+   'PYMODULE'),
+  ('flask.json.tag',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\json\\tag.py',
+   'PYMODULE'),
+  ('werkzeug.http',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\http.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.http',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\sansio\\http.py',
+   'PYMODULE'),
+  ('werkzeug.sansio',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\sansio\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\sansio\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.urls',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\urls.py',
+   'PYMODULE'),
+  ('werkzeug',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.serving',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\serving.py',
+   'PYMODULE'),
+  ('werkzeug._reloader',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\_reloader.py',
+   'PYMODULE'),
+  ('werkzeug.debug',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\debug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.console',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\debug\\console.py',
+   'PYMODULE'),
+  ('werkzeug.debug.repr',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\debug\\repr.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\code.pyc',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\codeop.pyc',
+   'PYMODULE'),
+  ('werkzeug.wrappers.response',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\wrappers\\response.py',
+   'PYMODULE'),
+  ('werkzeug.wsgi',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\wsgi.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.request',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\wrappers\\request.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.request',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\sansio\\request.py',
+   'PYMODULE'),
+  ('werkzeug.user_agent',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\user_agent.py',
+   'PYMODULE'),
+  ('werkzeug.formparser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\formparser.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.multipart',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\sansio\\multipart.py',
+   'PYMODULE'),
+  ('werkzeug.security',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\security.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.shared_data',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\middleware\\shared_data.py',
+   'PYMODULE'),
+  ('werkzeug.middleware',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.tbtools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\debug\\tbtools.py',
+   'PYMODULE'),
+  ('werkzeug._internal',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\_internal.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.structures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.range',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\range.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.mixins',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.headers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\headers.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.file_storage',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\file_storage.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.etag',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\etag.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.csp',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\csp.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.cache_control',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\cache_control.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.auth',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\auth.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.accept',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\datastructures\\accept.py',
+   'PYMODULE'),
+  ('itsdangerous',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\__init__.py',
+   'PYMODULE'),
+  ('itsdangerous.url_safe',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\url_safe.py',
+   'PYMODULE'),
+  ('itsdangerous._json',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\_json.py',
+   'PYMODULE'),
+  ('itsdangerous.timed',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\timed.py',
+   'PYMODULE'),
+  ('itsdangerous.signer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\signer.py',
+   'PYMODULE'),
+  ('itsdangerous.serializer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\serializer.py',
+   'PYMODULE'),
+  ('itsdangerous.exc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\exc.py',
+   'PYMODULE'),
+  ('itsdangerous.encoding',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous\\encoding.py',
+   'PYMODULE'),
+  ('click.testing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click\\testing.py',
+   'PYMODULE'),
+  ('werkzeug.test',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\test.py',
+   'PYMODULE'),
+  ('flask.logging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\logging.py',
+   'PYMODULE'),
+  ('werkzeug.local',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\local.py',
+   'PYMODULE'),
+  ('flask.json.provider',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\json\\provider.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.response',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\sansio\\response.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('werkzeug.routing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\routing\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.routing.rules',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\routing\\rules.py',
+   'PYMODULE'),
+  ('werkzeug.routing.matcher',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\routing\\matcher.py',
+   'PYMODULE'),
+  ('werkzeug.routing.map',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\routing\\map.py',
+   'PYMODULE'),
+  ('werkzeug.routing.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\routing\\exceptions.py',
+   'PYMODULE'),
+  ('werkzeug.routing.converters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\routing\\converters.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\exceptions.py',
+   'PYMODULE'),
+  ('flask.templating',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\templating.py',
+   'PYMODULE'),
+  ('flask.signals',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\signals.py',
+   'PYMODULE'),
+  ('blinker',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\blinker\\__init__.py',
+   'PYMODULE'),
+  ('blinker.base',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\blinker\\base.py',
+   'PYMODULE'),
+  ('blinker._utilities',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\blinker\\_utilities.py',
+   'PYMODULE'),
+  ('flask.helpers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\helpers.py',
+   'PYMODULE'),
+  ('flask.globals',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\globals.py',
+   'PYMODULE'),
+  ('flask.ctx',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\ctx.py',
+   'PYMODULE'),
+  ('flask.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\config.py',
+   'PYMODULE'),
+  ('flask.blueprints',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\blueprints.py',
+   'PYMODULE'),
+  ('flask.app',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\app.py',
+   'PYMODULE'),
+  ('flask.cli',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\cli.py',
+   'PYMODULE'),
+  ('flask.typing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\typing.py',
+   'PYMODULE'),
+  ('flask.json',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask\\json\\__init__.py',
+   'PYMODULE'),
+  ('eliminar_vencidos',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\eliminar_vencidos.py',
+   'PYMODULE'),
+  ('mysql.connector',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.pooling',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\pooling.py',
+   'PYMODULE'),
+  ('mysql.connector.abstracts',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\abstracts.py',
+   'PYMODULE'),
+  ('mysql.connector.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\utils.py',
+   'PYMODULE'),
+  ('mysql.connector.custom_types',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\custom_types.py',
+   'PYMODULE'),
+  ('mysql.connector.types',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\types.py',
+   'PYMODULE'),
+  ('mysql.connector.tls_ciphers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\tls_ciphers.py',
+   'PYMODULE'),
+  ('mysql.connector._decorating',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\_decorating.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.instrumentation',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\instrumentation.py',
+   'PYMODULE'),
+  ('mysql.connector.logger',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\logger.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.conversion',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\conversion.py',
+   'PYMODULE'),
+  ('mysql.connector.optionfiles',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\optionfiles.py',
+   'PYMODULE'),
+  ('mysql.connector.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\errors.py',
+   'PYMODULE'),
+  ('mysql.connector.locales',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\locales\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.dbapi',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\dbapi.py',
+   'PYMODULE'),
+  ('mysql.connector.constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.charsets',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\charsets.py',
+   'PYMODULE'),
+  ('mysql.connector.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\connection.py',
+   'PYMODULE'),
+  ('mysql.connector.protocol',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\protocol.py',
+   'PYMODULE'),
+  ('mysql.connector.plugins.caching_sha2_password',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\plugins\\caching_sha2_password.py',
+   'PYMODULE'),
+  ('mysql.connector.plugins',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\plugins\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.opentelemetry.context_propagation',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\opentelemetry\\context_propagation.py',
+   'PYMODULE'),
+  ('mysql.connector.network',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\network.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\cursor.py',
+   'PYMODULE'),
+  ('mysql.connector.authentication',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\authentication.py',
+   'PYMODULE'),
+  ('mysql.connector._scripting',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\_scripting.py',
+   'PYMODULE'),
+  ('mysql.connector.connection_cext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\connection_cext.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor_cext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\cursor_cext.py',
+   'PYMODULE'),
+  ('mysql',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.errorcode',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\errorcode.py',
+   'PYMODULE'),
+  ('mysql.connector.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\mysql\\connector\\version.py',
+   'PYMODULE'),
+  ('dbutils.pooled_db',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\dbutils\\pooled_db.py',
+   'PYMODULE'),
+  ('dbutils.steady_db',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\dbutils\\steady_db.py',
+   'PYMODULE'),
+  ('dbutils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\dbutils\\__init__.py',
+   'PYMODULE'),
+  ('hypercorn.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\config.py',
+   'PYMODULE'),
+  ('hypercorn.logging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\logging.py',
+   'PYMODULE'),
+  ('hypercorn.typing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\typing.py',
+   'PYMODULE'),
+  ('h11',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._state',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h2.events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\events.py',
+   'PYMODULE'),
+  ('h2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\__init__.py',
+   'PYMODULE'),
+  ('h2.errors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\errors.py',
+   'PYMODULE'),
+  ('hyperframe.frame',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hyperframe\\frame.py',
+   'PYMODULE'),
+  ('hyperframe',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hyperframe\\__init__.py',
+   'PYMODULE'),
+  ('hyperframe.flags',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hyperframe\\flags.py',
+   'PYMODULE'),
+  ('hyperframe.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hyperframe\\exceptions.py',
+   'PYMODULE'),
+  ('hpack',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\__init__.py',
+   'PYMODULE'),
+  ('hpack.struct',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\struct.py',
+   'PYMODULE'),
+  ('hpack.hpack',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\hpack.py',
+   'PYMODULE'),
+  ('hpack.table',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\table.py',
+   'PYMODULE'),
+  ('hpack.huffman_table',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\huffman_table.py',
+   'PYMODULE'),
+  ('hpack.huffman_constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\huffman_constants.py',
+   'PYMODULE'),
+  ('hpack.huffman',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\huffman.py',
+   'PYMODULE'),
+  ('hpack.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hpack\\exceptions.py',
+   'PYMODULE'),
+  ('h2.settings',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\settings.py',
+   'PYMODULE'),
+  ('h2.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\exceptions.py',
+   'PYMODULE'),
+  ('logging.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\logging\\config.pyc',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\logging\\handlers.pyc',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\smtplib.pyc',
+   'PYMODULE'),
+  ('hypercorn',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\__init__.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\wsgiref\\handlers.pyc',
+   'PYMODULE'),
+  ('wsgiref',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\wsgiref\\__init__.pyc',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\wsgiref\\headers.pyc',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\wsgiref\\util.pyc',
+   'PYMODULE'),
+  ('hypercorn.asyncio',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('hypercorn.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\utils.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\events.py',
+   'PYMODULE'),
+  ('hypercorn.protocol',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\__init__.py',
+   'PYMODULE'),
+  ('hypercorn.events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\events.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.h11',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\h11.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.ws_stream',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\ws_stream.py',
+   'PYMODULE'),
+  ('wsproto.utilities',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\utilities.py',
+   'PYMODULE'),
+  ('wsproto',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\__init__.py',
+   'PYMODULE'),
+  ('wsproto.typing',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\typing.py',
+   'PYMODULE'),
+  ('wsproto.handshake',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\handshake.py',
+   'PYMODULE'),
+  ('wsproto.frame_protocol',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\frame_protocol.py',
+   'PYMODULE'),
+  ('wsproto.extensions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\extensions.py',
+   'PYMODULE'),
+  ('wsproto.events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\events.py',
+   'PYMODULE'),
+  ('wsproto.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\wsproto\\connection.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.http_stream',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\http_stream.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.h2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\h2.py',
+   'PYMODULE'),
+  ('priority',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\priority\\__init__.py',
+   'PYMODULE'),
+  ('priority.priority',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\priority\\priority.py',
+   'PYMODULE'),
+  ('h2.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\connection.py',
+   'PYMODULE'),
+  ('h2.windows',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\windows.py',
+   'PYMODULE'),
+  ('h2.utilities',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\utilities.py',
+   'PYMODULE'),
+  ('h2.stream',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\stream.py',
+   'PYMODULE'),
+  ('h2.frame_buffer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\frame_buffer.py',
+   'PYMODULE'),
+  ('h2.config',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2\\config.py',
+   'PYMODULE'),
+  ('hypercorn.app_wrappers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\app_wrappers.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.run',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\run.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.worker_context',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\worker_context.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.udp_server',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\udp_server.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.quic',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\quic.py',
+   'PYMODULE'),
+  ('hypercorn.protocol.h3',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\protocol\\h3.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.task_group',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\task_group.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.tcp_server',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\tcp_server.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.statsd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\statsd.py',
+   'PYMODULE'),
+  ('hypercorn.statsd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\statsd.py',
+   'PYMODULE'),
+  ('hypercorn.asyncio.lifespan',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\hypercorn\\asyncio\\lifespan.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\__init__.pyc',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\unix_events.pyc',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\log.pyc',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\windows_events.pyc',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\windows_utils.pyc',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\selector_events.pyc',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\proactor_events.pyc',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\base_subprocess.pyc',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\threads.pyc',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\timeouts.pyc',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\taskgroups.pyc',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\subprocess.pyc',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\streams.pyc',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\queues.pyc',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\runners.pyc',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\base_events.pyc',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\trsock.pyc',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\staggered.pyc',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\tasks.pyc',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\locks.pyc',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\base_tasks.pyc',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\mixins.pyc',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\sslproto.pyc',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\transports.pyc',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\protocols.pyc',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\futures.pyc',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\base_futures.pyc',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\exceptions.pyc',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\events.pyc',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\format_helpers.pyc',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\asyncio\\constants.pyc',
+   'PYMODULE'),
+  ('werkzeug.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug\\utils.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\http\\cookies.pyc',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('MySQLdb',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\__init__.py',
+   'PYMODULE'),
+  ('MySQLdb.connections',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\connections.py',
+   'PYMODULE'),
+  ('MySQLdb.converters',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\converters.py',
+   'PYMODULE'),
+  ('MySQLdb.constants.FLAG',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\constants\\FLAG.py',
+   'PYMODULE'),
+  ('MySQLdb.constants.CLIENT',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\constants\\CLIENT.py',
+   'PYMODULE'),
+  ('MySQLdb._exceptions',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\_exceptions.py',
+   'PYMODULE'),
+  ('MySQLdb.cursors',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\cursors.py',
+   'PYMODULE'),
+  ('MySQLdb.times',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\times.py',
+   'PYMODULE'),
+  ('MySQLdb.constants.FIELD_TYPE',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\constants\\FIELD_TYPE.py',
+   'PYMODULE'),
+  ('MySQLdb.constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\constants\\__init__.py',
+   'PYMODULE'),
+  ('MySQLdb.release',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\release.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\logging\\__init__.pyc',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\webbrowser.pyc',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\datetime.pyc',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_strptime.pyc',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\threading.pyc',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_threading_local.pyc',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\json\\__init__.pyc',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\json\\encoder.pyc',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\json\\decoder.pyc',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\json\\scanner.pyc',
+   'PYMODULE')],
+ [('python311.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_socket.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_ssl.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_uuid.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\markupsafe\\_speedups.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_mysql_connector.cp311-win_amd64.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\_mysql_connector.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\_asyncio.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp311-win_amd64.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('MySQLdb\\_mysql.cp311-win_amd64.pyd',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MySQLdb\\_mysql.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\libssl-3.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libmysql.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\libmysql.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\ucrtbase.dll',
+   'BINARY'),
+  ('libcrypto-3-x64.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\libcrypto-3-x64.dll',
+   'BINARY'),
+  ('libssl-3-x64.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\libssl-3-x64.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\Windows\\system32\\MSVCP140.dll', 'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY')],
+ [],
+ [],
+ [('FOTOS\\1105363067.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1105363067.jpg',
+   'DATA'),
+  ('FOTOS\\1110457460.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1110457460.jpg',
+   'DATA'),
+  ('FOTOS\\1111111111.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1111111111.jpg',
+   'DATA'),
+  ('FOTOS\\1111748851.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\1111748851.jpg',
+   'DATA'),
+  ('FOTOS\\123456789.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\123456789.jpg',
+   'DATA'),
+  ('FOTOS\\12345678910.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\12345678910.jpg',
+   'DATA'),
+  ('FOTOS\\14123456.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\14123456.jpg',
+   'DATA'),
+  ('FOTOS\\16379045.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\16379045.jpg',
+   'DATA'),
+  ('FOTOS\\23123213324234.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\23123213324234.jpg',
+   'DATA'),
+  ('FOTOS\\234324324324.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\234324324324.jpg',
+   'DATA'),
+  ('FOTOS\\3333333333333.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\3333333333333.jpg',
+   'DATA'),
+  ('FOTOS\\3664643222.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\3664643222.jpg',
+   'DATA'),
+  ('FOTOS\\5555555555.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\5555555555.jpg',
+   'DATA'),
+  ('FOTOS\\6545332252.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\6545332252.jpg',
+   'DATA'),
+  ('FOTOS\\77777777.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\77777777.jpg',
+   'DATA'),
+  ('FOTOS\\94074267.jpg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\94074267.jpg',
+   'DATA'),
+  ('FOTOS\\icono.png',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FOTOS\\icono.png',
+   'DATA'),
+  ('config.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\config.txt',
+   'DATA'),
+  ('templates\\agregar.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\templates\\agregar.html',
+   'DATA'),
+  ('templates\\editar.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\templates\\editar.html',
+   'DATA'),
+  ('templates\\eventos_panel.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\templates\\eventos_panel.html',
+   'DATA'),
+  ('templates\\index.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE ID\\templates\\index.html',
+   'DATA'),
+  ('templates\\tabla_eventos.html',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\templates\\tabla_eventos.html',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\LICENSE.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\RECORD',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\entry_points.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('h2-4.2.0.dist-info\\LICENSE',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2-4.2.0.dist-info\\LICENSE',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\METADATA',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\REQUESTED',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\RECORD',
+   'DATA'),
+  ('h2-4.2.0.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2-4.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('h2-4.2.0.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2-4.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('click-8.2.1.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click-8.2.1.dist-info\\RECORD',
+   'DATA'),
+  ('click-8.2.1.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click-8.2.1.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('h2-4.2.0.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2-4.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.2.1.dist-info\\REQUESTED',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click-8.2.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\REQUESTED',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\WHEEL',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\METADATA',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\REQUESTED',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.2.1.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click-8.2.1.dist-info\\WHEEL',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\REQUESTED',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('h2-4.2.0.dist-info\\top_level.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2-4.2.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('flask-3.1.1.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\flask-3.1.1.dist-info\\METADATA',
+   'DATA'),
+  ('h2-4.2.0.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\h2-4.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\WHEEL',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.2.1.dist-info\\INSTALLER',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click-8.2.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\LICENSE.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('click-8.2.1.dist-info\\METADATA',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\click-8.2.1.dist-info\\METADATA',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\top_level.txt',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\RECORD',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\RECORD',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\build\\app\\base_library.zip',
+   'DATA')],
+ [('reprlib',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\reprlib.pyc',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\codecs.pyc',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\types.pyc',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\genericpath.pyc',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_weakrefset.pyc',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\stat.pyc',
+   'PYMODULE'),
+  ('collections.abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\collections\\abc.pyc',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\collections\\__init__.pyc',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\sre_compile.pyc',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\_collections_abc.pyc',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\warnings.pyc',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\posixpath.pyc',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\keyword.pyc',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\weakref.pyc',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\linecache.pyc',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\sre_parse.pyc',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\enum.pyc',
+   'PYMODULE'),
+  ('encodings.zlib_codec',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\zlib_codec.pyc',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\uu_codec.pyc',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_8_sig.pyc',
+   'PYMODULE'),
+  ('encodings.utf_8',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_8.pyc',
+   'PYMODULE'),
+  ('encodings.utf_7',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_7.pyc',
+   'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_32_le.pyc',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_32_be.pyc',
+   'PYMODULE'),
+  ('encodings.utf_32',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_32.pyc',
+   'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_16_le.pyc',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_16_be.pyc',
+   'PYMODULE'),
+  ('encodings.utf_16',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\utf_16.pyc',
+   'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\unicode_escape.pyc',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\undefined.pyc',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\tis_620.pyc',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\shift_jisx0213.pyc',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\shift_jis_2004.pyc',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\shift_jis.pyc',
+   'PYMODULE'),
+  ('encodings.rot_13',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\rot_13.pyc',
+   'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\raw_unicode_escape.pyc',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\quopri_codec.pyc',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\punycode.pyc',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\ptcp154.pyc',
+   'PYMODULE'),
+  ('encodings.palmos',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\palmos.pyc',
+   'PYMODULE'),
+  ('encodings.oem',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\oem.pyc',
+   'PYMODULE'),
+  ('encodings.mbcs',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mbcs.pyc',
+   'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_turkish.pyc',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_romanian.pyc',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_roman.pyc',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_latin2.pyc',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_iceland.pyc',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_greek.pyc',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_farsi.pyc',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_cyrillic.pyc',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_croatian.pyc',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\mac_arabic.pyc',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\latin_1.pyc',
+   'PYMODULE'),
+  ('encodings.kz1048',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\kz1048.pyc',
+   'PYMODULE'),
+  ('encodings.koi8_u',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\koi8_u.pyc',
+   'PYMODULE'),
+  ('encodings.koi8_t',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\koi8_t.pyc',
+   'PYMODULE'),
+  ('encodings.koi8_r',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\koi8_r.pyc',
+   'PYMODULE'),
+  ('encodings.johab',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\johab.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_9.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_8.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_7.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_6.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_5.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_4.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_3.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_2.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_16.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_15.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_14.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_13.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_11.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_10.pyc',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso8859_1.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_kr.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_jp_ext.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_jp_3.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_jp_2004.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_jp_2.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_jp_1.pyc',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\iso2022_jp.pyc',
+   'PYMODULE'),
+  ('encodings.idna',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\idna.pyc',
+   'PYMODULE'),
+  ('encodings.hz',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\hz.pyc',
+   'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\hp_roman8.pyc',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\hex_codec.pyc',
+   'PYMODULE'),
+  ('encodings.gbk',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\gbk.pyc',
+   'PYMODULE'),
+  ('encodings.gb2312',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\gb2312.pyc',
+   'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\gb18030.pyc',
+   'PYMODULE'),
+  ('encodings.euc_kr',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\euc_kr.pyc',
+   'PYMODULE'),
+  ('encodings.euc_jp',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\euc_jp.pyc',
+   'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\euc_jisx0213.pyc',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\euc_jis_2004.pyc',
+   'PYMODULE'),
+  ('encodings.cp950',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp950.pyc',
+   'PYMODULE'),
+  ('encodings.cp949',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp949.pyc',
+   'PYMODULE'),
+  ('encodings.cp932',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp932.pyc',
+   'PYMODULE'),
+  ('encodings.cp875',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp875.pyc',
+   'PYMODULE'),
+  ('encodings.cp874',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp874.pyc',
+   'PYMODULE'),
+  ('encodings.cp869',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp869.pyc',
+   'PYMODULE'),
+  ('encodings.cp866',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp866.pyc',
+   'PYMODULE'),
+  ('encodings.cp865',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp865.pyc',
+   'PYMODULE'),
+  ('encodings.cp864',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp864.pyc',
+   'PYMODULE'),
+  ('encodings.cp863',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp863.pyc',
+   'PYMODULE'),
+  ('encodings.cp862',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp862.pyc',
+   'PYMODULE'),
+  ('encodings.cp861',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp861.pyc',
+   'PYMODULE'),
+  ('encodings.cp860',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp860.pyc',
+   'PYMODULE'),
+  ('encodings.cp858',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp858.pyc',
+   'PYMODULE'),
+  ('encodings.cp857',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp857.pyc',
+   'PYMODULE'),
+  ('encodings.cp856',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp856.pyc',
+   'PYMODULE'),
+  ('encodings.cp855',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp855.pyc',
+   'PYMODULE'),
+  ('encodings.cp852',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp852.pyc',
+   'PYMODULE'),
+  ('encodings.cp850',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp850.pyc',
+   'PYMODULE'),
+  ('encodings.cp775',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp775.pyc',
+   'PYMODULE'),
+  ('encodings.cp737',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp737.pyc',
+   'PYMODULE'),
+  ('encodings.cp720',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp720.pyc',
+   'PYMODULE'),
+  ('encodings.cp500',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp500.pyc',
+   'PYMODULE'),
+  ('encodings.cp437',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp437.pyc',
+   'PYMODULE'),
+  ('encodings.cp424',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp424.pyc',
+   'PYMODULE'),
+  ('encodings.cp273',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp273.pyc',
+   'PYMODULE'),
+  ('encodings.cp1258',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1258.pyc',
+   'PYMODULE'),
+  ('encodings.cp1257',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1257.pyc',
+   'PYMODULE'),
+  ('encodings.cp1256',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1256.pyc',
+   'PYMODULE'),
+  ('encodings.cp1255',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1255.pyc',
+   'PYMODULE'),
+  ('encodings.cp1254',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1254.pyc',
+   'PYMODULE'),
+  ('encodings.cp1253',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1253.pyc',
+   'PYMODULE'),
+  ('encodings.cp1252',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1252.pyc',
+   'PYMODULE'),
+  ('encodings.cp1251',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1251.pyc',
+   'PYMODULE'),
+  ('encodings.cp1250',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1250.pyc',
+   'PYMODULE'),
+  ('encodings.cp1140',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1140.pyc',
+   'PYMODULE'),
+  ('encodings.cp1125',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1125.pyc',
+   'PYMODULE'),
+  ('encodings.cp1026',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1026.pyc',
+   'PYMODULE'),
+  ('encodings.cp1006',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp1006.pyc',
+   'PYMODULE'),
+  ('encodings.cp037',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\cp037.pyc',
+   'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\charmap.pyc',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\bz2_codec.pyc',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\big5hkscs.pyc',
+   'PYMODULE'),
+  ('encodings.big5',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\big5.pyc',
+   'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\base64_codec.pyc',
+   'PYMODULE'),
+  ('encodings.ascii',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\ascii.pyc',
+   'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\aliases.pyc',
+   'PYMODULE'),
+  ('encodings',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\encodings\\__init__.pyc',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\operator.pyc',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\copyreg.pyc',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\heapq.pyc',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\io.pyc',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\locale.pyc',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\abc.pyc',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\ntpath.pyc',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\functools.pyc',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\sre_constants.pyc',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\re\\_parser.pyc',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\re\\_constants.pyc',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\re\\_compiler.pyc',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\re\\_casefix.pyc',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\re\\__init__.pyc',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\traceback.pyc',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\SOPORTE\\Desktop\\ATC-GYM 4.0\\FACE '
+   'ID\\python_embebido\\python311.zip\\os.pyc',
+   'PYMODULE')])
